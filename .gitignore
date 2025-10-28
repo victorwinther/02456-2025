@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
+
+# making sure to ignore everything in the images folder of Week8 Mini Project
+Week8 Mini Project/leaf-classification/
