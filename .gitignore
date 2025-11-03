@@ -107,3 +107,5 @@ venv.bak/
 
 # making sure to ignore everything in the images folder of Week8 Mini Project
 Week8 Mini Project/leaf-classification/
+
+data/caltech101/
